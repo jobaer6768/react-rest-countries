@@ -1,0 +1,23 @@
+.box{
+    border: 2px solid purple;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.img-width{
+    width: 50px;
+}
+
+.btn-visited{
+    display: block;
+    margin: 10px auto;
+}
+
+.visited{
+    background-color: brown;
+}
+
+.btn-visited:active{
+    background-color: burlywood;
+}
